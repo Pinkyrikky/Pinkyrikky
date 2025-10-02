@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Pinky Rikky  
 
-<!--
-**Pinkyrikky/Pinkyrikky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me
+- 💻 Passionate developer  
+- 🚀 Love building projects and exploring new tech  
+- 🌱 Always learning and growing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinkyrikky&show_icons=true&theme=radical)
+
+---
+
+## 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinkyrikky&theme=radical)
+
+---
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkyrikky&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=pinkyrikky&theme=radical&no-frame=true&margin-w=10)
