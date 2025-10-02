@@ -41,10 +41,6 @@
 ## 📈 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinkyrikky&theme=radical)
 
----
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkyrikky&layout=compact&theme=radical)
 
 ---
 
